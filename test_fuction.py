@@ -1,4 +1,4 @@
-from . import hello_world
+from . import function
 
 def test_hello_world():
     assert hello_world() == "Hello, World!"
